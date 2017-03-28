@@ -1,1 +1,2 @@
-print(1..45).to_a.sample(6).sort
+arr_num = [1,2,3,4,5]
+arr_world=["asdas"]
